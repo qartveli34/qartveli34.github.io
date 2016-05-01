@@ -10,8 +10,8 @@ title: What the Rice?
 # Introduction
 After making my departure to Arch Linux a month ago I was quickly introduced to the world of tiling window managers. The idea is that instead of having a full blown desktop environment (DE) such as Gnome or Unity, you just have a window manager that utilizes keyboard shortcuts to organize your windows. With this you are able to create a very customizable experience without using up all your system's resources.
 
-# So What is Rice / Ricing?
-Ricing is term conceiver [/r/unixporn](https://www.reddit.com/r/unixporn) to someone who is customizing their linux distribution such as their the system icons and the color of the terminal. When it comes to ricing a tiling window manager though, the ricing of a user's system becomes much more involved. Basic things such as the panel bar and application launcher must be configured by the user.
+# So What is Rice / Ricing? აქ რაღაც ტე სქსსასდფფი ი
+icing is term conceiver [/r/unixporn](https://www.reddit.com/r/unixporn) to someone who is customizing their linux distribution such as their the system icons and the color of the terminal. When it comes to ricing a tiling window manager though, the ricing of a user's system becomes much more involved. Basic things such as the panel bar and application launcher must be configured by the user.
 
 # The State of Ricing
 It's and there are more ways than ever to rice your PC. The reddit community [/r/unixporn](https://www.reddit.com/r/unixporn) is a great place to stay up to date on what people are using for their setups.
